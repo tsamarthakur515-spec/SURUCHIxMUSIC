@@ -1,12 +1,12 @@
 {
-    "name": "ShrutixMusic",
+    "name": "SuruchixMusic",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/5a5039d21a5cedb5bd6bc-e25218a8dd3941e289.jpg",
+    "logo": "https://files.catbox.moe/fqo8qt.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Shrutix",
+    "Suruchix",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
